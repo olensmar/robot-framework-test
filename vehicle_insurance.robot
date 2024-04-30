@@ -7,7 +7,7 @@ ${HEADLESS}    true
 
 *** Test Cases ***
 Create Quote for Car
-    Open Insurance Application
+    Open Testkube Website
     End Test
 
 *** Keywords ***
