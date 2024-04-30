@@ -14,7 +14,7 @@ Create Quote for Car
 Open Insurance Application
     New Browser    browser=${BROWSER}    headless=${HEADLESS}
     New Context    locale=en-GB
-    New Page    https://sampleapp.tricentis.com/
+    New Page    https://testkube.io/
 
 End Test
     Close Context
