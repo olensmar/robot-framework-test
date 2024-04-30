@@ -11,7 +11,7 @@ Create Quote for Car
     End Test
 
 *** Keywords ***
-Open Insurance Application
+Open Testkube Website
     New Browser    browser=${BROWSER}    headless=${HEADLESS}
     New Context    locale=en-GB
     New Page    https://testkube.io/
