@@ -2,11 +2,11 @@
 Library    Browser
 
 *** Variables ***
-${BROWSER}    firefox
+${BROWSER}    chromium
 ${HEADLESS}    true
 
 *** Test Cases ***
-Create Quote for Car
+Test Testkube Website
     Open Testkube Website
     End Test
 
